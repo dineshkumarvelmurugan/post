@@ -1,0 +1,20 @@
+{
+  "name": "ex6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "expresss": "^0.0.0",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1",
+    "url": "^0.11.3"
+  }
+}
